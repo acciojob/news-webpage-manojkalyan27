@@ -14,23 +14,31 @@
 .latest-news-section {
 	background-color: white;
 	width: 200px;
+	height: 130px;
 	padding: 10px;
-/* 	margin: 20px; */
-	border-radius: 10px;
+	margin: 10px;
+	border-radius: 20px;
+	text-align: center;
 	
 }
 .main-article{
 	background-color: white;
 	width: 400px;
+	height: 230px;
 	padding: 10px;
-	border-radius: 10px;
+	border-radius: 20px;
+	text-align: center;
+	margin: 10px;
 	
 }
 .pictorial-news-section{
 	background-color: white;
 	width: 300px;
+	height: 230px;
 	padding: 10px;
-	border-radius: 10px;
+	border-radius: 20px;
+	text-align: center ;
+	margin: 10px;
 }
 
 img{
@@ -40,3 +48,4 @@ img{
 body{
 	background-color: #f5f5f5;
 }
+; 
